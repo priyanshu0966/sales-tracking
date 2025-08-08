@@ -60,3 +60,6 @@ Bar Chart: Sales by Region
 Pie Chart: Revenue Distribution by Product
 
 Line Plot: Sales Over Time
+
+
+if you have your own sales data, you can easily replace the data generation section with df = pd.read_csv('your_sales_data.csv').
